@@ -1,3 +1,4 @@
+![logo](https://github.com/KrSambhavam/KrSambhavam/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Kumar Sambhavam</h1>
 <h3 align="center">A passionate ML/AI & Software Engineering Enthusiast from India</h3>
 
